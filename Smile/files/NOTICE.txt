@@ -1,0 +1,57 @@
+Smile
+Copyright 2017 Fabiola Casasopra, Carmen Barletta, Gabriele Iannone, Guido Lanfranchi, Francesco Maio
+
+This product includes software developed for the
+Xilinx Pynq Hackaton (http://xph.necst.it)
+within the NECST laboratory (www.necst.it)
+of Politecnico di Milano, Italy (www.polimi.it)
+
+To find more information about this product,
+you may visit the following pages
+- https://www.facebook.com/SmileXPH/
+
+
+========================================
+Included components
+========================================
+This work uses the following components,
+listed with their respective licenses:
+- client.py, under the Apache License
+- server.py, under the Apache License
+- firstapp.py, under the Apache License
+
+==========================================
+Mentioned trademarks
+==========================================
+This work mentions the following trademarks:
+- Pynq is registered trademarks of Xilinx.
+http://www.xilinx.com/legal.htm
+
+
+========================================
+Acknowledgments
+========================================
+The authors are pleased to thank the following persons
+for their help to this project:
+Marco Santambrogio
+Emanuele Del Sozzo
+Lorenzo Di Tucci
+Giuseppe Natale
+Marco Rabozzi
+Alberto Scolari 
+& all the other teams participating
+
+==========================================
+==========================================
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
